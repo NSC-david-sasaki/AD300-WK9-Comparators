@@ -39,7 +39,7 @@ Author: Winters, Manshreck, Wright - Title: Software Engineering at Google - Yea
 The Author Comparator uses the Author's name as listed in the Book's class. No data valiidation is performed to confirm 
 first name vs last name, vs multiple authors.
 
-* Added Chained Comparator: Combines the Author Compartor with Year  Compartor to refine results. Useful when author's
+* Added Chained Comparator: Combines the Author Compartor with Title  Compartor to refine results. Useful when author's
 last name is common.
 
 * Added Year Comparator: allows query by the year the book was published. The Book class does not have an edition field.
